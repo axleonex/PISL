@@ -1,6 +1,6 @@
 Hand Talk: Plains Indian Sign Language (Toki Pona Edition)
 
-This is a deck copied from a Toki Pona Learning deck, but changed to include Plains Indian Handtalk. I did this so that I could learn Plains Handtalk while practicing Toki Pona at the same time, as I felt that if I could use Plains talk with Toki Pona syntax, I could get a headstart in communicating Indian Sign Language before moving onto the rest of Plains Indian Signs.
+This is an Anki deck copied from a Toki Pona Learning deck, but changed to include Plains Indian Handtalk. I did this so that I could learn Plains Handtalk while practicing Toki Pona at the same time, as I felt that if I could use Plains talk with Toki Pona syntax, I could get a headstart in communicating Indian Sign Language before moving onto the rest of Plains Indian Signs.
 
 The philosophy of this deck is, “if I can memorize a Toki Pona word alongside a HandTalk sign, then I’ve mastered both.”
 
